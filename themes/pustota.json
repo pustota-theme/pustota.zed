@@ -1,0 +1,155 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Pustota",
+  "author": "Kanishk Pachauri",
+  "themes": [
+    {
+      "name": "Pustota",
+      "appearance": "dark",
+      "style": {
+        "background": "#0A0E14",
+        "foreground": "#B3B1AD",
+        "text": "#B3B1AD",
+        "text.muted": "#626A73",
+        "border": "#0A0E14",
+        "border.variant": "#0A0E14",
+        "editor.background": "#0A0E14",
+        "editor.foreground": "#B3B1AD",
+        "editor.gutter.background": "#0A0E14",
+        "editor.line_number": "#B3B1AD80",
+        "editor.active_line_number": "#B3B1ADCC",
+        "editor.active_line.background": "#00010a",
+        "editor.selection.background": "#273747",
+        "editor.indent_guide": "#4d556666",
+        "editor.indent_guide_active": "#4d5566b3",
+        "editor.bracket_match.background": "#4d55664d",
+        "editor.bracket_match.border": "#4d556699",
+        "search.match_background": "#e6b45033",
+        "search.active_match_background": "#e6b45066",
+        "status_bar.background": "#0A0E14",
+        "title_bar.background": "#0A0E14",
+        "tab_bar.background": "#0A0E14",
+        "tab.active_background": "#0A0E14",
+        "tab.inactive_background": "#0A0E14",
+        "panel.background": "#0A0E14",
+        "terminal.background": "#0A0E14",
+        "terminal.foreground": "#B3B1AD",
+        "terminal.ansi.black": "#00010a",
+        "terminal.ansi.blue": "#53bdfa",
+        "terminal.ansi.bright_black": "#686868",
+        "terminal.ansi.bright_blue": "#59c2ff",
+        "terminal.ansi.bright_cyan": "#95e6cb",
+        "terminal.ansi.bright_green": "#c2d94c",
+        "terminal.ansi.bright_magenta": "#ffee99",
+        "terminal.ansi.bright_red": "#f07178",
+        "terminal.ansi.bright_white": "#ffffff",
+        "terminal.ansi.bright_yellow": "#ffb454",
+        "terminal.ansi.cyan": "#90e1c6",
+        "terminal.ansi.green": "#91b362",
+        "terminal.ansi.magenta": "#fae994",
+        "terminal.ansi.red": "#ea6c73",
+        "terminal.ansi.white": "#c7c7c7",
+        "terminal.ansi.yellow": "#f9af4f",
+        "version_control.added": "#c2d94c",
+        "version_control.modified": "#d4cb68",
+        "version_control.deleted": "#d96c75b3",
+        "version_control.ignored": "#373d49",
+        "error": "#FF8F40",
+        "warning": "#E6B450",
+        "info": "#59C2FF",
+        "hint": "#626A73",
+        "syntax": {
+          "comment": {
+            "color": "#626A73",
+            "font_style": "italic"
+          },
+          "comment.doc": {
+            "color": "#626A73",
+            "font_style": "italic"
+          },
+          "string": {
+            "color": "#C2D94C"
+          },
+          "string.escape": {
+            "color": "#C2D94C"
+          },
+          "string.regex": {
+            "color": "#C2D94C"
+          },
+          "constant": {
+            "color": "#E6B450"
+          },
+          "number": {
+            "color": "#E6B450"
+          },
+          "boolean": {
+            "color": "#E6B450"
+          },
+          "keyword": {
+            "color": "#FF8F40"
+          },
+          "operator": {
+            "color": "#FF8F40"
+          },
+          "function": {
+            "color": "#FFB454"
+          },
+          "function.method": {
+            "color": "#FFB454"
+          },
+          "function.macro": {
+            "color": "#FFB454"
+          },
+          "type": {
+            "color": "#59C2FF"
+          },
+          "type.builtin": {
+            "color": "#59C2FF"
+          },
+          "constructor": {
+            "color": "#FFB454"
+          },
+          "property": {
+            "color": "#B3B1AD"
+          },
+          "variable": {
+            "color": "#B3B1AD"
+          },
+          "variable.special": {
+            "color": "#FF8F40"
+          },
+          "tag": {
+            "color": "#FF8F40"
+          },
+          "attribute": {
+            "color": "#FFB454"
+          },
+          "punctuation": {
+            "color": "#B3B1AD"
+          },
+          "punctuation.bracket": {
+            "color": "#B3B1AD"
+          },
+          "punctuation.delimiter": {
+            "color": "#B3B1AD"
+          },
+          "label": {
+            "color": "#FFB454"
+          },
+          "embedded": {
+            "color": "#B3B1AD"
+          },
+          "diff.plus": {
+            "color": "#91b36299"
+          },
+          "diff.minus": {
+            "color": "#d96c7599"
+          },
+          "diff.delta": {
+            "color": "#6994bf99"
+          }
+        }
+      }
+    }
+  ]
+}
