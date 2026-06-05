@@ -19,10 +19,10 @@ A clean, minimalist zed theme inspired by the original [pustota VSCode theme](ht
    ```bash
    cd pustota.zed
    ```
-3. Copy the `pustota.zed` file to your zed themes directory:
+3. Copy the theme file to your Zed themes directory:
     ```bash
     mkdir -p ~/.config/zed/themes
-    cp pustota.zed ~/.config/zed/themes/
+    cp themes/pustota.json ~/.config/zed/themes/
     ```
 4. Activating the Theme
 
