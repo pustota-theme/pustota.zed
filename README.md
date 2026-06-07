@@ -13,7 +13,7 @@ A clean, minimalist zed theme inspired by the original [pustota VSCode theme](ht
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mr-Sunglasses/pustota.zed.git
+   git clone https://github.com/pustota-theme/pustota.zed.git
    ```
 2. Navigate to the cloned directory:
    ```bash
